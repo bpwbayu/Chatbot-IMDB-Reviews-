@@ -3,7 +3,8 @@
 🩺 Medical Cost Prediction
 This project aims to predict medical insurance costs based on personal factors. It uses
 regression models to identify the factors that most influence an individual's insurance costs.
-The models used are Linear Regression, Random Forest, and K-Neighbors Regressor.
+The models used are Linear Regression, Random Forest, and K-Neighbors Regressor.]
+
 📁Dataset
 Source: Kaggle - Medical Cost Personal Dataset
 This dataset contains 1,338 individual data points with seven input features, including age,
